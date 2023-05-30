@@ -6,7 +6,10 @@ import {
   View,
   StatusBar
 } from 'react-native';
+
 import HomeScreen from './src/screens/HomeScreen';
+
+
 function App(): JSX.Element {
   return (
     <SafeAreaView>
